@@ -5,14 +5,16 @@ Author URI: http://webdeveric.com/
 Plugin URI: http://phplug.in/
 Tags: admin, widgets, user interface
 Requires at least: 3.0.0
-Tested up to: 3.8
+
+
+Tested up to: 3.8.1
 Stable tag: 0.2.1
 
-Limit the length of the description under each widget on the the widgets page.
+This plugin allows you to shorten or hide the description under each widget on the the widgets admin page.
 
 == Description ==
 
-Limit the length of the description under each widget on the the widgets page.
+This plugin allows you to shorten or hide the description under each widget on the the widgets admin page.
 
 == Installation ==
 
@@ -23,7 +25,7 @@ Limit the length of the description under each widget on the the widgets page.
 == Changelog ==
 
 = 0.2.1 =
-* Minor code clean up and verify compatibility with WordPress 3.8
+* Minor code clean up and verify compatibility with WordPress 3.8.1
 
 = 0.2 =
 * Added deactivation hook.
