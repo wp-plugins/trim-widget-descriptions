@@ -5,9 +5,7 @@ Author URI: http://webdeveric.com/
 Plugin URI: http://phplug.in/
 Tags: admin, widgets, user interface
 Requires at least: 3.0.0
-
-
-Tested up to: 3.8.1
+Tested up to: 4.1.1
 Stable tag: 0.2.1
 
 This plugin allows you to shorten or hide the description under each widget on the the widgets admin page.
