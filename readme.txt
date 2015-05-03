@@ -5,8 +5,8 @@ Author URI: http://webdeveric.com/
 Plugin URI: http://phplug.in/
 Tags: admin, widgets, user interface
 Requires at least: 3.0.0
-Tested up to: 4.1.1
-Stable tag: 0.2.1
+Tested up to: 4.2.0
+Stable tag: 0.2.2
 
 This plugin allows you to shorten or hide the description under each widget on the the widgets admin page.
 
@@ -22,8 +22,12 @@ This plugin allows you to shorten or hide the description under each widget on t
 
 == Changelog ==
 
+= 0.2.2 =
+* Updated ellipsis function.
+* Works in WP 4.2.0. 
+
 = 0.2.1 =
-* Minor code clean up and verify compatibility with WordPress 3.8.1
+* Minor code clean up and verify compatibility with WordPress 3.8.1.
 
 = 0.2 =
 * Added deactivation hook.
